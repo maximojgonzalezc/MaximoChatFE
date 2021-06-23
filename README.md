@@ -2,9 +2,7 @@
 Hello jobSity tester!
 Here you will find the Front end for my chat web app
 
-In order to run it you need 
-1) the .Net 5.0 runtime => https://dotnet.microsoft.com/download}
-2) NodeJs => https://nodejs.org/en/download/ 
+In order to run it you need NodeJs => https://nodejs.org/en/download/ 
 
 I also recommend using Visual Studio Code => https://code.visualstudio.com/
 
