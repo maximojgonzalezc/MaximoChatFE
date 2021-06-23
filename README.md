@@ -11,4 +11,4 @@ Then:
 1) Clone this repo => git clone https://github.com/maximojgonzalezc/MaximoChatFE.git
 2) Open and step into the MaximoChatFE folder
 3) run 'npm install' command
-4) After installing dependencies run 'mpn start' command, and after compiled, open your browser at "http://localhost:3000"
+4) After installing dependencies run 'npm start' command, and after compiled, open your browser at "http://localhost:3000"
